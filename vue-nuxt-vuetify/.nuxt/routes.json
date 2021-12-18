@@ -1,0 +1,14 @@
+[
+  {
+    "name": "traverse",
+    "path": "/traverse",
+    "component": "C:\\\\Praveen\\\\blockchain\\\\vue-nuxt-vuetify\\\\pages\\\\traverse.vue",
+    "chunkName": "pages/traverse"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Praveen\\\\blockchain\\\\vue-nuxt-vuetify\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
+  }
+]

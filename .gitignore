@@ -1,0 +1,5 @@
+node-express-mongo/node_modules
+node-express-mongo/build
+node-express-mongo/.env
+vue-nuxt-vuetify/node_modules
+vue-nuxt-vuetify/.next
