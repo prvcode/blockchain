@@ -1,0 +1,27 @@
+{
+  "name": "vue-nuxt-vuetify",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.13.6",
+    "core-js": "^3.15.1",
+    "material-design-icons-iconfont": "^6.1.1",
+    "node-sass": "^4.14.1",
+    "nuxt": "^2.15.7",
+    "store": "^2.0.12",
+    "vuetify": "^2.5.5",
+    "vuex-module-decorators": "^1.2.0"
+  },
+  "devDependencies": {
+    "@nuxt/types": "^2.15.8",
+    "@nuxt/typescript-build": "^2.1.0",
+    "@nuxtjs/vuetify": "^1.12.1",
+    "sass-loader": "^7.1.0"
+  }
+}
